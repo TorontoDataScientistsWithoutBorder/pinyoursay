@@ -3,7 +3,7 @@
 ## Goal
 <!-- That we expect to see at the end of the project? -->
 
-everyone can use our tool to share opinions/needs about their everyday living experiences/of certain services in town pinpointing a specific location (represented as a pair of GPS coordinates) shown on the map in town. (such as the app HouseSigma, instead of showing houses for sale/sold on the map but people's experinces/needs/requests/complaints on the map)
+everyone can use our tool to share opinions/needs about their everyday living experiences/of certain services in town pinpointing a specific location (represented as a pair of GPS coordinates) shown on the map in town. (such as the app HouseSigma, instead of showing houses for sale/sold on the map but people's experiences/needs/requests/complaints on the map)
 
 for example:
 - share experiences of visits of a certain shop/public agency to be shown on the map:

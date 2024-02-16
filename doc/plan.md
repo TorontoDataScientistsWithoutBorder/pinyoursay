@@ -22,7 +22,7 @@ for example:
   - **general public**: everyday life lessons/information etc.
     - example 1: go get your birthweek drink at Yonge&Finch starbucks if you missed your birthday one! :)
   - **urban/city planner**: understand the general public's needs on the ground in every part of the town
-    - example 4: The city should seriously at least build one small library around here mannn!! (the community needs some sort of community services here while there is none!)  
+    - example 4: The city should seriously at least build one small library around here mannn!! (the neighborhood needs some sort of community services here while there is none!)  
   - **business developer**: which part of the town needs what kind of services and goods:
     - example 4: grocery stores, child care center would have good opportunities to sell in this part of town as 6 condo towers nearby (BLUE OCEAN here right now!!)
  

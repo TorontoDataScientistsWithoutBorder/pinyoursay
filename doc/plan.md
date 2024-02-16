@@ -16,7 +16,7 @@ for example:
 ### potential beneficiaries of the tool:
 - who submit their sharings: get their voices known (even when I was writing the above examples I felt a healing :)
 - who read the sharings:
-  - general public: everyday life lessons/informations etc.
+  - general public: everyday life lessons/information etc.
     - example 1: go get your birthweek drink at Yonge&Finch starbucks if you missed your birthday one! :)
   - urban/city planner: understand the general public's needs on the ground in every part of the town
     - example 4: The city should seriously at least build one small library around here mannn!! (the community needs some sort of community services nere while there is none!)  

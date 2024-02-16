@@ -7,7 +7,7 @@ everyone can use our tool to share opinions/needs about their everyday living ex
 
 for example:
 - share experiences of visits of a certain shop/public agency to be shown on the map:
-  - 1. yonge & finch starbucks [shown as GPS coordinates(N 43° 43' 31.2456", W 79° 29) on the map) has a very nice server that would give you a free birthday drink in your entire week of birthday :)
+  - 1. yonge & finch starbucks [shown as GPS coordinates(N 43° 43' 31.2456", W 79° 29) on the map) has a very nice server that would give you a free birthday drink in your entire week of birthday ^_^
   - 2. Dynamic Medical Center-Private colonoscopy clinic [shown as GPS coordinates(43.7828° N, 79.4166° W)] has a terrible receptionist
   - 3. Edithvale Community Center has a very annoying receptionist :(
 - request needs of daily public infrastructure or business services to be shown on the map:

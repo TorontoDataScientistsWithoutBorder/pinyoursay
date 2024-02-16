@@ -3,7 +3,13 @@
 ## Goal
 <!-- That we expect to see at the end of the project? -->
 
-everyone can use our tool to share opinions/needs about their everyday living experiences in town pinpointing a specific location on the map in town
+everyone can use our tool to share opinions/needs about their everyday living experiences in town pinpointing a specific location (represented as a pair of GPS coordinates) shown on the map in town.
+example:
+- experiences of visits of a certain shop/public agency:
+  - yonge & finch starbucks [represented as GPS coordinates(N 43° 43' 31.2456", W 79° 29) on the map) has very nice servers that would give you a free birthday drink in your entire week of birthday :)
+  - Dynamic Medical Center-Private colonoscopy clinic [reprented as GPS coordinates(43.7828° N, 79.4166° W)] has a terrible receptionist
+ - request needs of daily public infrastructure or business services:
+   - yonge and cummer  
 
 ### beneficiaries:
 - who submit their sharings: get their voices known

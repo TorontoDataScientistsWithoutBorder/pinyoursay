@@ -3,7 +3,8 @@
 ## Goal
 <!-- That we expect to see at the end of the project? -->
 
-everyone can use our tool to share opinions/needs about their everyday living experiences/of certain services in town pinpointing a specific location (represented as a pair of GPS coordinates) shown on the map in town.
+everyone can use our tool to share opinions/needs about their everyday living experiences/of certain services in town pinpointing a specific location (represented as a pair of GPS coordinates) shown on the map in town. (such as the app HouseSigma, instead of showing houses for sale/sold on the map but people's experinces/needs/requests/complaints on the map)
+
 for example:
 - share experiences of visits of a certain shop/public agency to be shown on the map:
   - 1. yonge & finch starbucks [shown as GPS coordinates(N 43° 43' 31.2456", W 79° 29) on the map) has a very nice server that would give you a free birthday drink in your entire week of birthday :)

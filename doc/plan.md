@@ -10,11 +10,11 @@ everyone can use our tool to share opinions/needs about their everyday living ex
 
 for example:
 - share experiences of visits of a certain shop/public agency to be shown on the map:
-  - 1. yonge & finch starbucks [shown as GPS coordinates(N 43° 43' 31.2456", W 79° 29) on the map) has a very nice server that would give you a free birthday drink in your entire week of birthday ^_^
-  - 2. Dynamic Medical Center-Private colonoscopy clinic [shown as GPS coordinates(43.7828° N, 79.4166° W)] has a terrible receptionist
-  - 3. Edithvale Community Center has a very annoying receptionist :(
+  - (1) yonge & finch starbucks [shown as GPS coordinates(N 43° 43' 31.2456", W 79° 29) on the map) has a very nice server that would give you a free birthday drink in your entire week of birthday ^_^
+  - (2) Dynamic Medical Center-Private colonoscopy clinic [shown as GPS coordinates(43.7828° N, 79.4166° W)] has a terrible receptionist
+  - (3) Edithvale Community Center has a very annoying receptionist :(
 - request needs of certain type of public infrastructure for daily life or business services to be shown on the map:
-  - 4. yonge and cummer intersection [shown as (43.786708 N, -79.416419 W)] this area does not have any library nor any community center while having at least 6 huge condo towers coming up]
+  - (4) yonge and cummer intersection [shown as (43.786708 N, -79.416419 W)] this area does not have any library nor any community center while having at least 6 huge condo towers coming up]
 
 ### potential beneficiaries of the tool:
 - who submit their sharings: get their voices known (even when I was writing the above examples I felt a healing :)

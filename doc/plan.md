@@ -3,6 +3,20 @@
 ## Goal
 <!-- That we expect to see at the end of the project? -->
 
+everyone can use our tool to share opinions/needs about their everyday living experiences in town pinpointing a specific location on the map in town
+
+### beneficiaries:
+- who submit their sharings: get their voices known
+- who read the sharings:
+  - general public: daily lessons/informations etc.
+  - urban planner: understand the general public's needs on the ground in every part of the town
+  - business developer: which part of the town needs what kind of services and goods
+ 
+
+
+
+
+
 
 ## Objectives
 Something/points we want to finish in the project

@@ -6,7 +6,7 @@
 A map that collects the events users observed from their surroundings and the feelings of users regarding to the events.
 So we can analyze the data and contribute to the urban planning and service design.
 
-everyone can use our tool to share opinions/needs about their everyday living experiences/of certain services in town pinpointing a specific location (represented as a pair of GPS coordinates) shown on the map in town. (such as the app HouseSigma, instead of showing houses for sale/sold on the map but people's experiences/needs/requests/complaints on the map)
+everyone can use our tool to share opinions/needs about their everyday living experiences/of certain services in town pinpointing a specific location (represented as a pair of GPS coordinates) shown on the map in town. (such as the app HouseSigma, instead of showing houses for sale/sold on the map but people's experiences/needs/requests/complaints on the map, i.e. a broader scale of 311 app)
 
 for example:
 - share experiences of visits of a certain shop/public agency to be shown on the map:

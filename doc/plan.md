@@ -6,6 +6,8 @@
 We want to build a map that collects the events users observed from their surroundings and the feelings of users regarding to the events.
 So we can analyze the data and contribute to the urban planning and service design for public service.
 
+We believe that urbanization and social development (also public service and social innovation) can be driven by the public and open data. Therefore we plan to collect data with the map exploring possibility of the bottom-up approach.
+
 ## Objectives
 <!-- Something/points we want to finish in the project -->
 

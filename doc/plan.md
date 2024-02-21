@@ -31,6 +31,8 @@ everyone can use our tool to share opinions/needs about their everyday living ex
 1. a web map user interface (could look like Uber, but more flexible in dragging location pins) so the general public can submit data via:
 -  drag their pin on the map to the location where they wanna report about
 
+2. think about how do people submit data? by forms?
+
 
 ## Scope
 <!-- Now we know what stakeholders may interested in

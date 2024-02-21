@@ -48,7 +48,7 @@ handling steps from:
 2. 
 
 ### Tasks:
-1. review a few similar applications that can be good references for the architecture
+1. review a few similar applications that can be good references for the architecture/go through their source code
 - bikeshare
 - social pinpoint
 - uber

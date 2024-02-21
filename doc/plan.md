@@ -28,6 +28,10 @@ We believe that urbanization and social development (also public service and soc
 How do we understand the needs of the stakeholders -->
 everyone can use our tool to share opinions/needs about their everyday living experiences/of certain services in town pinpointing a specific location (represented as a pair of GPS coordinates) shown on the map in town. (such as the app HouseSigma, instead of showing houses for sale/sold on the map but people's experiences/needs/requests/complaints on the map, i.e. a broader scale of 311 app)
 
+1. a web map user interface (could look like Uber, but more flexible in dragging location pins) so the general public can submit data via:
+-  drag their pin on the map to the location where they wanna report about
+
+
 ## Scope
 <!-- Now we know what stakeholders may interested in
 But we cannot finish them at once and may not finish all

@@ -47,7 +47,7 @@ handling steps from:
 (question: how is API involved ?)
 2. 
 
-### Tasks:
+### Tasks break-down:
 1. review a few similar applications that can be good references for the architecture/go through their source code
 - bikeshare
 - social pinpoint

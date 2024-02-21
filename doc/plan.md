@@ -35,6 +35,11 @@ everyone can use our tool to share opinions/needs about their everyday living ex
 
 2. think about how do people submit data? by forms?
 
+references:
+https://stackoverflow.com/questions/38137071/google-map-api-drag-and-drop-pin
+
+
+
 ### Back-end 
 
 handling steps from:

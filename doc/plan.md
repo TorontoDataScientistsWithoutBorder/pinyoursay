@@ -42,7 +42,12 @@ handling steps from:
 (question: how is API involved ?)
 2. 
 
-
+### Tasks:
+1. review a few similar applications that can be good references for the architecture
+- bikeshare
+- social pinpoint
+- uber
+  
 ## Scope
 <!-- Now we know what stakeholders may interested in
 But we cannot finish them at once and may not finish all

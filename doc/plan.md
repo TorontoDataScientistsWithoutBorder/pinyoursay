@@ -52,6 +52,8 @@ handling steps from:
 - bikeshare
 - social pinpoint
 - uber
+
+2. make a UML/architecture diagram?
   
 ## Scope
 <!-- Now we know what stakeholders may interested in

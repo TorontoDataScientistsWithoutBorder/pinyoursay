@@ -10,6 +10,20 @@ We believe that urbanization and social development (also public service and soc
 
 ## Objectives
 <!-- Something/points we want to finish in the project -->
+We aim to build a system to accept input from citizens and store it for further analysis.
+The architecture of this project delivery should be flexible for implementing any kinds of dashboard or analyzing algorithms on top of it.  
+Architecture
+- Input
+  - User friendly map pin point style Twitter
+- Storage
+  - Data Lake (lakehouse)
+  - Generalize (preserve interfaces for any potential applications in the future)
+- Output
+  - Undefined
+  - To be specify in next development stage
+  - Depends on the requirement from the client data consumer
+
+Developers will learn API development, practice project management skills and get hand-on experience in building and maintaining a lakehouse.
 
 ## Stakeholders
 <!-- List of people related to the project in their benifit and interest that may affect us and we may affect them -->

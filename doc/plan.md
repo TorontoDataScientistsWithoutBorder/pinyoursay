@@ -26,7 +26,8 @@ We believe that urbanization and social development (also public service and soc
     - example 4: grocery stores, child care center would have good opportunities to sell in this part of town as 6 condo towers nearby (BLUE OCEAN here right now!!)
   - **Media**
     - example 5: TVO show about local communities
-    - example 5: news writer
+    - example 5: newsletter
+    
  
 ## Requirements
 <!-- What we will do regarding to the stakeholders

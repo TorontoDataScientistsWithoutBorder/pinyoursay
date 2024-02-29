@@ -42,61 +42,43 @@ For the first stage of our development, we limited the scope to build a input in
 ## Requirements
 <!-- What we will do regarding to the stakeholders
 How do we understand the needs of the stakeholders -->
-Any user can go to our map put a pin point with a text description and attach images or videos.
-
-The time, location, user text/image/video passes to data pipeline.
-
-### Front-end Web User Interface
-
-1. a web map user interface (could look like Uber, but more flexible in dragging location pins) so the general public can submit data via:
--  drag their pin on the map to the location where they wanna report about
-
-2. think about how do people submit data? by forms?
-
-references:
-https://stackoverflow.com/questions/38137071/google-map-api-drag-and-drop-pin
-
-
-
-### Back-end 
-
-handling steps from:
-1. when the general public submit data to a database to store
-(question: how is API involved ?)
-2. 
-
-### Tasks break-down:
-1. review a few similar applications that can be good references for the architecture/go through their source code
-- bikeshare
-- social pinpoint
-- uber
-
-2. make a UML/architecture diagram?
-location = GPS pair
-information = not house for sale but boarder 33 sth showing user thoughts and feelings 
+- Any user can go to our map put a pin point with a text description and attach images or videos.
+- Web interface for accessibility.
+- The time, location, user text/image/video passes to a data pipeline and store the data in a lakehouse.
+- RESTful APIs for web app to connect lakehouse.
+- Project should be well documented for future development.
   
 ## Scope
 <!-- Now we know what stakeholders may interested in
 But we cannot finish them at once and may not finish all
 So what do we do , what do we not do -->
 
-### Some use cases
-- share experiences of visits of a certain shop/public agency to be shown on the map:
-  - (1) yonge & finch starbucks [shown as GPS coordinates(N 43° 43' 31.2456", W 79° 29) on the map) has a very nice server that would give you a free birthday drink in your entire week of birthday ^_^
-  - (2) Dynamic Medical Center-Private colonoscopy clinic [shown as GPS coordinates(43.7828° N, 79.4166° W)] has a terrible receptionist
-  - (3) Edithvale Community Center has a very annoying receptionist :(
-- request needs of certain type of public infrastructure for daily life or business services to be shown on the map:
-  - (4) yonge and cummer intersection [shown as (43.786708 N, -79.416419 W)] this area does not have any library nor any community center while having at least 6 huge condo towers coming up]
+- Design and implement a Web app of map
+- Design and implement CR<s>UD</s> operations of pin points on map in the web app for user
+- Design and implement CRU<s>D</s> APIs of pin points in lakehouse
+- Setup and maintain a data lakehouse
+- Setup and maintain a cache database if necessary 
 
 ## Assumptions
 <!-- What did we assume as the requirement that our project can made its goal -->
+- We know nothing about API design and development 
+- We know nothing about lakehouse
+- We need to learn frontend development with map
+- We want to build a web to collect observations and thoughts from people 
 
 ## Resources
 <!-- What do we have now
 What do we need -->
+- manpower * 2  
+More contributors are welcomed! 😍
 
 ## Deliveriables
 <!--What we should finish and give to users/stakeholders in terms of product -->
+- Tutorial and code examples for building CRUD RESTful API with FastAPI 
+- Tutorial about setting up a lakehouse 
+- RESTful API server for backend
+- Lakehouse for data storage
+- Map web app with SSO for adding pin points 
 
 ## Acceptance criteria
 <!-- Metrics to measure the progress of the project
@@ -104,12 +86,30 @@ Metrics to measure the user satisfaction
 Other requirements (security...) for releasing the product (QC)
 The level of metrics that is acceptable for releasing
 How to verify that deliveriable align with the goal? -->
+- Tutorial contains test cases for the code examples and all code passes the unit tests
+- All functions in code has at least two unit test associated
+- User can add pin points on map
+- User can see pin points added on map
+
+## Milestone
+1. (Learning) FastAPI sample for templates of index HTML and login APIs
+2. (Learning) Unit test for FastAPI about login APIs
+3. (Learning) Unit test for FastAPI about CRUD of SQL database 
+4. (Learning) Use case document of the tutorial app
+5. (Learning) API specification document of the tutorial app
+6. Use case document for the deliverables
+7. API specification document for thre deliverables
+8. Unit tests for the test caes of the deliverables 
+9. Setup lakehouse
+10. Test connections between lakehouse and FastAPI server 
+11. APIs and front end development of the deliverables 
 
 ## Communication plan
 <!-- How to communicate with stakeholders
 How to communicate with teams
 How to ensure new developer can easily join the work -->
+Meeting at Tuesday 😃
 
 ### Persons and roles
-
+@NewJerseyStyle will maintain the document as the first priority 
 

@@ -11,6 +11,7 @@ We believe that urbanization and social development (also public service and soc
 
 ## Objectives
 <!-- Something/points we want to finish in the project -->
+For the first stage of our development, we limited the scope to build a input interface and pipeline for collecting data from the crowd.  
 - Build a map based pin point creating interface for events or thoughts
 - Build a lakehouse for data storage and being  flexible for further development in data analytics 
 - Train our team in API development, practicing project management skills and get hand-on experience in building and maintaining a lakehouse
@@ -41,7 +42,9 @@ We believe that urbanization and social development (also public service and soc
 ## Requirements
 <!-- What we will do regarding to the stakeholders
 How do we understand the needs of the stakeholders -->
-everyone can use our tool to share opinions/needs about their everyday living experiences/of certain services in town pinpointing a specific location (represented as a pair of GPS coordinates) shown on the map in town. (such as the app HouseSigma, instead of showing houses for sale/sold on the map but people's experiences/needs/requests/complaints on the map, i.e. a broader scale of 311 app)
+Any user can go to our map put a pin point with a text description and attach images or videos.
+
+The time, location, user text/image/video passes to data pipeline.
 
 ### Front-end Web User Interface
 
@@ -69,6 +72,8 @@ handling steps from:
 - uber
 
 2. make a UML/architecture diagram?
+location = GPS pair
+information = not house for sale but boarder 33 sth showing user thoughts and feelings 
   
 ## Scope
 <!-- Now we know what stakeholders may interested in

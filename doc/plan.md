@@ -1,4 +1,5 @@
 # Pin Your Say
+Imagine a social media you share everything you see and your feelings about the things at a location at a time. That is us.
 
 ## Goal
 <!-- That we expect to see at the end of the project? -->
@@ -10,37 +11,31 @@ We believe that urbanization and social development (also public service and soc
 
 ## Objectives
 <!-- Something/points we want to finish in the project -->
-We aim to build a system to accept input from citizens and store it for further analysis.
-The architecture of this project delivery should be flexible for implementing any kinds of dashboard or analyzing algorithms on top of it.  
-Architecture
-- Input
-  - User friendly map pin point style Twitter
-- Storage
-  - Data Lake (lakehouse)
-  - Generalize (preserve interfaces for any potential applications in the future)
-- Output
-  - Undefined
-  - To be specify in next development stage
-  - Depends on the requirement from the client data consumer
-
-Developers will learn API development, practice project management skills and get hand-on experience in building and maintaining a lakehouse.
+- Build a map based pin point creating interface for events or thoughts
+- Build a lakehouse for data storage and being  flexible for further development in data analytics 
+- Train our team in API development, practicing project management skills and get hand-on experience in building and maintaining a lakehouse
 
 ## Stakeholders
 <!-- List of people related to the project in their benifit and interest that may affect us and we may affect them -->
 ### potential beneficiaries of the tool:
-- who submit their sharings: get their voices known (even when I was writing the above examples I felt a healing :)
+- who submit their sharings: get their voices known 🥰
+  - **general public**
+    - Just another Twitter, Instagram and Google map
+  - **Individual news media**
+    - Location and time specific information sharing
+  - **Social innovator**
+    - Get their idea and voices known
 - who read the sharings:
-  - **general public**: everyday life lessons/information etc.
-    - example 1: go get your birthweek drink at Yonge&Finch starbucks if you missed your birthday one! :)
-    - example 2: Facebook group user of local community
-  - **urban/city planner**: understand the general public's needs on the ground in every part of the town
-    - example 4: The city should seriously at least build one small library around here mannn!! (the neighborhood needs some sort of community services here while there is none!)
-    - example 5: People attand city council 
-  - **business developer**: which part of the town needs what kind of services and goods:
-    - example 4: grocery stores, child care center would have good opportunities to sell in this part of town as 6 condo towers nearby (BLUE OCEAN here right now!!)
+  - **general public**
+    - Everyday life lessons/information etc.
+  - **urban/city planner**
+    - Understand the general public's needs on the ground in every part of the town
+    - Ask us to provide business intelligence based on the data collected 
+  - **business developer**
+    - Figure out which part of the town needs what kind of services and goods
+    - Ask us to provide business intelligence based on the data collected
   - **Media**
-    - example 5: TVO show about local communities
-    - example 5: newsletter
+    - Get news provided by local residents and knowing things they cared about 
     
  
 ## Requirements
